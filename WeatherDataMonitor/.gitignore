@@ -53,4 +53,8 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 
+# JetBrains project files
 .idea
+
+# Application settings file
+appsettings.Development.json
